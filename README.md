@@ -1,4 +1,4 @@
-![tikiTimer](/img/tikitimer.png)
+![tikiTimer](img/tikitimer.png)
 
 ### TikiTimer
 An implementation of the pomodora technique.
